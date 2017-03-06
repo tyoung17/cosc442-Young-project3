@@ -1,6 +1,5 @@
 package edu.towson.cis.cosc442.project3.vendingmachine;
 
-import org.junit.runner.JUnitCore;
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;
 
@@ -21,14 +20,4 @@ import org.junit.runners.Suite;
 })
 public class TestAll {
 
-	/**
-	 * Launch the test.
-	 *
-	 * @param args the command line arguments
-	 *
-	 * @generatedBy CodePro at 3/5/17 8:56 PM
-	 */
-	public static void main(String[] args) {
-		JUnitCore.runClasses(new Class[] { TestAll.class });
-	}
 }

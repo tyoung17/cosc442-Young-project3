@@ -82,14 +82,4 @@ public class VendingMachineExceptionTest {
 		// Add additional tear down code here
 	}
 
-	/**
-	 * Launch the test.
-	 *
-	 * @param args the command line arguments
-	 *
-	 * @generatedBy CodePro at 3/5/17 8:56 PM
-	 */
-	public static void main(String[] args) {
-		new org.junit.runner.JUnitCore().run(VendingMachineExceptionTest.class);
-	}
 }
